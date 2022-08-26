@@ -1,0 +1,2 @@
+A:\メイン\開発\c++\test1\x64\Debug\test1.exe
+F:\メイン\開発\c++\test1\x64\Debug\test1.exe
